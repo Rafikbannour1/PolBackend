@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32d47584.css",
+    "main.js": "/static/js/main.1296de3e.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/world.png": "/static/media/world.1b543c55b80f82babdea.png",
+    "static/media/sketching.png": "/static/media/sketching.c67f84f67d3adc2d9f06.png",
+    "static/media/private.png": "/static/media/private.dedd848b4d2be4bb756c.png",
+    "static/media/chat.png": "/static/media/chat.7cd1a69fb9491f6e0614.png",
+    "static/media/bg-hero.png": "/static/media/bg-hero.ed62afaace5fe586da6b.png",
+    "static/media/learn.png": "/static/media/learn.3cc3120bdc9c4251c34a.png",
+    "static/media/pay.png": "/static/media/pay.2935a44b6b255a33ccab.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.32d47584.css.map": "/static/css/main.32d47584.css.map",
+    "main.1296de3e.js.map": "/static/js/main.1296de3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d47584.css",
+    "static/js/main.1296de3e.js"
+  ]
+}
